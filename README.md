@@ -3,7 +3,6 @@
 
 - 🧪 Possuo experiência e posso ajudar com Java e Linux.
 - 🌱 Atualmente estou estudando Python, PHP, JavaScript, ReactJs e Docker.
-- 💬 Contate-me no email: victoraugustos10@hotmail.com.
 - 😄 Pronome: Ele/dele.
 
 <div align="center">
