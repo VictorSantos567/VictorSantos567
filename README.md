@@ -2,7 +2,7 @@
 ### Eu sou Victor Augusto, Desenvolvedor em desenvolvimento 👨🏽‍💻
 
 - 🧪 Possuo experiência e posso ajudar com Java e Linux.
-- 🌱 Atualmente estou estudando Python, PHP, JavaScript, ReactJs e Docker.
+- 🌱 Atualmente estou estudando Python, PHP, JavaScript, NodeJs e Docker.
 - 😄 Pronome: Ele/dele.
 
 <div align="center">
