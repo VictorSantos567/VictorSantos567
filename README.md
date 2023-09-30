@@ -1,11 +1,5 @@
 ## Olá mundo 👋
 ### Eu sou Victor Augusto, Desenvolvedor em desenvolvimento 👨🏽‍💻
-
-<div align="center">
-  <a href="https://github.com/VictorSantos567">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSantos567&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantos567&layout=compact&langs_count=7&theme=darcula"/>
-</div>
  
  - 🧙🏽‍♂️ Hard Skills : 
  
